@@ -1,0 +1,21 @@
+.nav-link {
+    color: black;
+    font-weight: 600;
+}
+
+.nav-link:hover {
+    color: #FA4A0C;
+}
+
+.header {
+    padding-top: 50px;
+}
+
+.container-fluid {
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar-nav {
+    display: flex;
+}
